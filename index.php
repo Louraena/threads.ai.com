@@ -44,6 +44,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Threads</title>
+     <meta property="og:title" content="Threads AI" />
+  <meta property="og:description" content="Threads-inspired login UI deployed on Vercel." />
+  <meta property="og:image" content="https://threads-ai-giz05tnm7-cyndilou-guillenas-projects.vercel.app/thumbnail.png" />
+  <meta property="og:url" content="https://threads-ai-giz05tnm7-cyndilou-guillenas-projects.vercel.app/" />
+  <meta property="og:type" content="website" />
+
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://threads-ai-giz05tnm7-cyndilou-guillenas-projects.vercel.app/thumbnail.png" />
+
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
